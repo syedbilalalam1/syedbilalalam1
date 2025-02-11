@@ -179,7 +179,6 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Dwarf Fortress](https://img.shields.io/badge/-Dwarf%20Fortress-8B4513?style=for-the-badge&logo=dwarffortress&logoColor=white)
 ![Emulation](https://img.shields.io/badge/-Emulation-000000?style=for-the-badge&logo=emulation&logoColor=white)
-![Hacking the Matrix](https://img.shields.io/badge/-Hacking%20The%20Matrix-00FF00?style=for-the-badge&logo=matrix&logoColor=white)
  
 ## 💵 Support me
 Help me keep doing what I love. I will keep making software because it is what I enjoy doing, but if you like one of my projects or want to support me you can do so here. I appreciate all of it and it is a nice motivator to keep me going.
