@@ -24,7 +24,7 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-ff9900?style=for-the-badge&logoColor=white&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-337bb6?style=for-the-badge&logoColor=white&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4?style=for-the-badge&logoColor=white&logo=google-cloud)
-[![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](#)
+[![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)]
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
