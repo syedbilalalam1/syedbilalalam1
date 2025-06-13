@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/syedbilalalam1/syedbilalalam1/main/assets/main.gif)
 ## Hey, I'm Syed Bilal Alam
-Hello! I'm Syed Bilal Alam, a 19-year-old boy from Karachi, Pakistan. I'm currently pursuing Cambridge examinations in high school while simultaneously undertaking multiple computer science diplomas and architecture courses. My interests span across Full-Stack programming, AI development, Graphic and CAD Design. You can explore my projects and portfolio on my website: [Bilal's World.](https://bilalsworld.onrender.com)
+Hello! I'm Syed Bilal Alam, a 19-year-old boy from Karachi, Pakistan. I'm currently pursuing Cambridge examinations in high school while simultaneously undertaking multiple computer science diplomas and architecture courses. My interests span across Full-Stack programming, AI development, Graphic and CAD Design. You can explore my projects and portfolio on my website: [Bilal's Space.](https://bilals.space/)
 ## ⚡ Technologies
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
 
