@@ -5,14 +5,13 @@ Hello! I'm Syed Bilal Alam, a 20-year-old boy from Karachi, Pakistan. I'm curren
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
 
 
-![C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logoColor=black&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-90c53f?style=for-the-badge&logoColor=white&logo=Node.js)
-![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logoColor=black&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-099cec?style=for-the-badge&logoColor=white&logo=docker)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-4891CC?style=for-the-badge&logo=metasploit&logoColor=white)
+![C++](https://img.shields.io/badge/-C/C++-1E90FF?logo=c&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logoColor=black&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-3CB371?style=for-the-badge&logoColor=white&logo=Node.js)
+![React](https://img.shields.io/badge/-React-00CED1?style=for-the-badge&logoColor=black&logo=react)
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-DC143C?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
  
 ## 💵 Support me
@@ -22,5 +21,6 @@ Help me keep doing what I love. I will keep making software because it is what I
 
 <a href="mailto:syedbilalalam0@gmail.com"><img src="https://raw.githubusercontent.com/syedbilalalam1/syedbilalalam1/main/assets/bottom.gif" alt="Contact Me"></a>
 Art by [WANEELLA](https://waneella.tumblr.com/)
+
 
 
