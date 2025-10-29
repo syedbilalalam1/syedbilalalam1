@@ -4,15 +4,13 @@ Hello! I'm Syed Bilal Alam, a 20-year-old boy from Karachi, Pakistan. I'm curren
 ## ⚡ Technologies
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
 
-
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![C++](https://img.shields.io/badge/-C/C++-1E90FF?logo=c&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logoColor=black&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3CB371?style=for-the-badge&logoColor=white&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-00CED1?style=for-the-badge&logoColor=black&logo=react)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-DC143C?style=for-the-badge&logo=metasploit&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
  
 ## 💵 Support me
 Help me keep doing what I love. I will keep making software because it is what I enjoy doing, but if you like one of my projects or want to support me you can do so here. I appreciate all of it and it is a nice motivator to keep me going.
@@ -21,6 +19,7 @@ Help me keep doing what I love. I will keep making software because it is what I
 
 <a href="mailto:syedbilalalam0@gmail.com"><img src="https://raw.githubusercontent.com/syedbilalalam1/syedbilalalam1/main/assets/bottom.gif" alt="Contact Me"></a>
 Art by [WANEELLA](https://waneella.tumblr.com/)
+
 
 
 
