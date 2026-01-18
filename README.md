@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/syedbilalalam1/syedbilalalam1/main/assets/main.gif)
 ## Hey, I'm Syed Bilal Alam
-kobe. 
+i code. i write. i design. 
 [Bilal's Space.](https://bilals.space/)
 
 ## 
@@ -18,6 +18,7 @@ Help me keep doing what I love. I will keep making software because it is what I
 <a href="https://buymeacoffee.com/syedbilalalam" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <a href="mailto:syedbilalalam0@gmail.com"><img src="https://raw.githubusercontent.com/syedbilalalam1/syedbilalalam1/main/assets/bottom.gif" alt="Contact Me"></a>
+
 
 
 
