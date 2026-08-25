@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/syedbilalalam1/syedbilalalam1/main/assets/main.gif)
 ## Hey, I'm Syed Bilal Alam
 i code. i write. i design. 
-[Bilal's Space.](https://bilals.space/)
+[Bilal's World.](https://bilals.world/)
 
 ## 
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
